@@ -25,7 +25,5 @@ undefined
 ## Repository
 - [Project Repo](undefined)
 ## GitHub
-![Image of me](https://avatars3.githubusercontent.com/u/11791361?v=4)
-- David
-- [GitHub Profile](https://github.com/undefined)
+- [GitHub Profile](https://github.com/yhussein24)
 - <null>
